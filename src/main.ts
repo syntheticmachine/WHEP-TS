@@ -9,7 +9,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         <input type="text" id="video-url" value="https://customer-ltli1jjvv8lsaghz.cloudflarestream.com/740ecfa0e6a0d5cdf68f507e257da420/webRTC/play">
         <button id="load-video">Load Video</button>
       </div>
-      <video autoplay muted controls playsinline poster=".https://hatchingbigideas.com/certsoft/wp-content/uploads/2024/02/video-poster.jpg"></video>
+      <video autoplay muted controls playsinline poster="https://hatchingbigideas.com/certsoft/wp-content/uploads/2024/02/video-poster.jpg"></video>
     </div>
   </div>
 `;
